@@ -4,4 +4,8 @@ This is our story:
 
 This is how it begins,
 
+<<<<<<< HEAD
 Story goes on: And this is how it evolves.
+=======
+And this is how it evolves
+>>>>>>> hakon korjaus
